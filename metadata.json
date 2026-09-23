@@ -1,0 +1,6 @@
+{
+  "name": "Google Merch Shop — Mobile-First Redesign",
+  "description": "Data-driven mobile-first UX and conversion redesign of the Google Merchandise Store, solving GA4 funnel friction across discovery, basket conversion, and delivery-to-payment checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
